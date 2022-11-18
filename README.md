@@ -3,7 +3,7 @@
 I’m Christine Socrate from France, i'm currently a freelance web integrator and i create static websites focus on ✨ _optimization_ ✨ to improve web performance, technical SEO and accessibility.
 
 - 🔭 I work 100% remotly
-- 🌱 I'm currently learning back JavaScript to quit jQuery
+- 🌱 I'm currently learning back JavaScript
 
 ---
 
