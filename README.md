@@ -4,7 +4,7 @@ I’m Christine Socrate from France, i'm currently a freelance web integrator an
 
 - 🔭 I work 100% remotly
 - 🌱 I'm currently learning back JavaScript
-      And what about jQuery ? When i need to "write less, do more", i'll still use it
+      (and what about jQuery ? When i need to "write less, do more", i'll still use it)
 
 ---
 
