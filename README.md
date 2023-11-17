@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I’m Christine Socrate from France, i'm currently a freelance web integrator and i create static websites focus on ✨ _optimization_ ✨ to improve web performance, technical SEO and accessibility.
+I’m Christine Socrate from France, i'm currently a freelance front-end developer.
 
 - 🔭 I work 100% remotly
-- 🌱 I'm currently learning back JavaScript
-      (and what about jQuery ? When i need to "write less, do more", i'll still use it)
+- 🌱 I'm currently learning React JS
 
 ---
 
